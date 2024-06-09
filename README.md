@@ -1,1 +1,1 @@
-Diwali Sales Analysis Using Exploratory Data Analysis in Python
+Diwali Sales Analysis Using Exploratory Data Analysis 
